@@ -130,10 +130,25 @@ lo siguiente:
 README.md  detallando:
 
 * Objetivos iniciales del proyecto
+  
+  - Determinar si la app es útil para el mercado mexicano
+  - Determinar que cambios realizar para adaptarla
+  
 * Problemas encontrados tanto a nivel de negocio como a nivel de usuario
+
+  - El usuario mexicano no tiene una cultura de ahorro
+  - El usuario mexicano considera "dificil ahorrar"
+  - No todos los usuarios tienen cuenta bancaria
+  - El usuario mexicano, en especial las mujeres buscan crear nuevas fuentes de ingreso
+  - Al usuario mexicano le parece atractiva la idea de invertir, aun en pequeños montos
+  
 * Recomendaciones de próximos pasos para el banco con respecto al app (estas
   recomendaciones tendrán que ser sustentadas por tu investigación):
+  
   * Qué modificaciones se deberían hacer
+  
+    - Recomendamos añadir la opción de invertir aún en pequeños montos
+    
   * Cuáles deberían ser los próximos desarrollos
   * En qué se debería invertir el presupuesto de marketing
 * De acuerdo al punto anterior, de requerirse cambios y desarrollos nuevos,
